@@ -126,7 +126,7 @@ Contributions are welcome! If you have any improvements or suggestions, please f
 
 If you have any questions, feel free to reach out:
 
-- Email: your-anjalivaish343@gmail.com
+- Email: anjalivaish343@gmail.com
 - GitHub: [anjali-vaish](https://github.com/anjali-vaish)
 
 
